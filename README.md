@@ -108,19 +108,24 @@ plt.axis("Off")
 ## OUTPUT:
 ### 1. Smoothing Filters
 i) Using Averaging Filter
+
 ![Screenshot 2023-04-09 222659](https://user-images.githubusercontent.com/94219582/230786813-f2757f3c-4db5-4282-8f8d-a277621b52b7.png)
 
 ii) Using Weighted Averaging Filter
+
 ![Screenshot 2023-04-09 222750](https://user-images.githubusercontent.com/94219582/230786854-170af949-27b6-4af2-bc4e-81bc1a50a3f1.png)
 
 iii) Using Gaussian Filter
+
 ![image](https://user-images.githubusercontent.com/94219582/230786906-dd3a3d8e-1133-43b0-b3db-70f111c524cc.png)
 
 iv) Using Median Filter
+
 ![Screenshot 2023-04-09 222913](https://user-images.githubusercontent.com/94219582/230786930-cf80cddc-e0bb-4f1c-8e65-07b584ee09d4.png)
 
 ### 2. Sharpening Filters
 i) Using Laplacian Kernal
+
 ![Screenshot 2023-04-09 222951](https://user-images.githubusercontent.com/94219582/230787122-7a7788c4-3036-4f64-88ce-f5521a0126e0.png)
 
 
