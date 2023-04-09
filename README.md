@@ -16,14 +16,14 @@ Perform linear filtering operation.
 Apply following filters to the image for smoothing:
 
 Averaging filter
-Weighted Averaging Filter
-Gaussian Blur
-Median filter
+1.Weighted Averaging Filter
+2.Gaussian Blur
+3.Median filter
 
 ### Step4
 Apply following filters to the image for sharpening:
-Laplacian kernel
-Laplacian operator
+1.Laplacian kernel
+2.Laplacian operator
 
 ### Step5
 Apply following filters to the image for sharpening:
