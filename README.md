@@ -15,10 +15,10 @@ Perform linear filtering operation.
 ### Step3
 Apply following filters to the image for smoothing:
 
-Averaging filter
-1.Weighted Averaging Filter
-2.Gaussian Blur
-3.Median filter
+1.Averaging filter
+2.Weighted Averaging Filter
+3.Gaussian Blur
+4.Median filter
 
 ### Step4
 Apply following filters to the image for sharpening:
