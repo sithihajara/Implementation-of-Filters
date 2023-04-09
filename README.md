@@ -31,7 +31,7 @@ Apply following filters to the image for sharpening: Laplacian kernel Laplacian 
 ## Program:
 ### Developed By   :Vishranthi A
 ### Register Number:212221230124
-</br>
+
 ### Importing libraries:
 ```
 import cv2
@@ -107,23 +107,29 @@ plt.axis("Off")
 ### 1. Smoothing Filters
 
 i) Using Averaging Filter
+
 ![image](https://user-images.githubusercontent.com/93427278/230788354-83b42ada-e68c-456d-b76e-ab79b3623b51.png)
 
 ii) Using Weighted Averaging Filter
+
 ![image](https://user-images.githubusercontent.com/93427278/230788530-75a0ab0d-51f3-42ed-932a-3de133841fc9.png)
 
 iii) Using Gaussian Filter
+
 ![image](https://user-images.githubusercontent.com/93427278/230788548-4c3d50ec-d19d-45f5-85e8-8d793ca21dea.png)
 
 iv) Using Median Filter
+
 ![image](https://user-images.githubusercontent.com/93427278/230788570-1cae3d3b-4b48-4f37-bff7-d10be561633d.png)
 
 ### 2. Sharpening Filters
 
 i) Using Laplacian Kernal
+
 ![image](https://user-images.githubusercontent.com/93427278/230788595-39f3556a-b88d-408a-80bf-6e6f1d187729.png)
 
 ii) Using Laplacian Operator
+
 ![image](https://user-images.githubusercontent.com/93427278/230788632-9506a682-c1c9-4b7d-a27f-2e9af8d1df5a.png)
 
 ## Result:
